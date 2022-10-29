@@ -20,7 +20,7 @@ const Footer = () => {
           </div>
           <div>
             <AiFillGithub />
-            <a href="https://www.google.co.in/">GITHUB</a>
+            <a href="https://github.com/Nihar4">GITHUB</a>
           </div>
         </div>
       </div>
